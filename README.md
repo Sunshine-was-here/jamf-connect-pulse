@@ -519,7 +519,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ellie Romero**
 - Email: ellie.romero@jamf.com
-- GitHub: [@SassyNerd](https://github.com/Sunshine-was-here)
+- GitHub: [@ECR](https://github.com/Sunshine-was-here)
 
 ---
 
